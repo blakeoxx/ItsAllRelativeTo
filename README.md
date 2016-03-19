@@ -9,7 +9,7 @@ This project is a web-based application with the goal of measuring real-world ob
 
 ## How to Contribute
 
-Contact [blakeoxx](https://github.com/blakeoxx) to be added as a collaborator to this project. We loosely follow the git branching model proposed by Vincent Driessen: [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/).
+Contact [blakeoxx](https://github.com/blakeoxx) to be added as a contributor to this project. We loosely follow the git branching model proposed by Vincent Driessen: [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/).
 
 - **Environment branches**: The only permanent branches are *master* and *dev*. These two branches represent the production and development/staging/testing environment, respectively.
   - The only branches that should be merged to *master* are release branches and hotfixes. These are discussed further down.
