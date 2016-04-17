@@ -5,7 +5,10 @@ This project is a web-based application with the goal of measuring real-world ob
 
 ## Technologies Used
 
-* [git](https://git-scm.com/) for source code version control. We recommend the [GitKraken](http://www.gitkraken.com/) client, though any client will work.
+- [git](https://git-scm.com/) for source code version control. We recommend the git command line or [GitKraken](http://www.gitkraken.com/) client, though any client will work.
+- [MySQL 5.5](http://www.mysql.com/) database running on Linux.
+- [PHP 5](http://php.net/) for API, running on Linux via Apache Web Server. The application itself is stateless and uses this API to interact with the database, enforce user state, and communicate with external resources.
+- [Bootstrap](http://getbootstrap.com/) and [jQuery](https://jquery.com/) for front-end development.
 
 ## How to Contribute
 
